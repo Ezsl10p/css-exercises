@@ -1,2 +1,8 @@
 p {font-family: verdana, "dejaVu Sans", sans-serif;
-background-color: rgb(241, 173, 173)
+background-color: rgb(241, 173, 173);
+}
+
+.two {
+    color:rgb(4, 0, 255);
+    font-size: 36px;
+}
